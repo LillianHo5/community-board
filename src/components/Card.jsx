@@ -6,7 +6,7 @@ const Card = (props) => {
             <img src={props.imagePath} />
             <h3>{props.resource}</h3>
             <p>{props.price}</p>
-            <button>Learn More</button>
+            <a href={props.buttonLink} target="_blank" class="button">Learn More</a>
         </div>
     )
 }
