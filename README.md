@@ -4,7 +4,7 @@ Submitted by: **Lillian Ho**
 
 This web app: **A resources board that displays various apps and websites for learning languages at home.**
 
-Time spent: **6** hours spent in total
+Time spent: **5.5** hours spent in total
 
 ## Required Features
 
