@@ -38,10 +38,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+* I initially had trouble styling the background - there was a white space even though I set the background color. I found out it was due to some styling I had in index.css and made edits. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Lillian Ho]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
